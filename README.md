@@ -5,6 +5,7 @@ A simple tool in Python that scraps links in PDF files
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
+![Project Running](https://github.com/umegbewe/pdf-link-extract/blob/main/eg.gif)
 ## Run Locally
 
 Clone the project
