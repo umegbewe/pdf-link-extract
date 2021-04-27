@@ -1,6 +1,6 @@
 import fitz
 import re
-file = "test.pdf"
+file = "(pdfname).pdf"
 
 url_regex = r"https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=\n]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)"
 
