@@ -1,7 +1,7 @@
 import pikepdf
 
-file = "test.pdf"
-# file is test.pdf
+file = "(pdfname).pdf"
+
 
 pdf_file = pikepdf.Pdf.open(file)
 urls = []
