@@ -1,7 +1,8 @@
 import pikepdf
 
 file = "test.pdf"
-# file = "1710.05006.pdf"
+# file is test.pdf
+
 pdf_file = pikepdf.Pdf.open(file)
 urls = []
 # iterate over PDF pages
